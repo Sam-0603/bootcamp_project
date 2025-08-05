@@ -1,0 +1,77 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris"],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway"],
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2"],
+        "answer": "H2O"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome"],
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "What is the speed of light?",
+        "options": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s"],
+        "answer": "300,000 km/s"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the largest mammal?",
+        "options": ["Elephant", "Blue Whale", "Giraffe"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Pepper"],
+        "answer": "Avocado"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["100°C", "90°C", "80°C"],
+        "answer": "100°C"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Dollar"],
+        "answer": "Yen"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the largest continent?",
+        "options": ["Africa", "Asia", "Europe"],
+        "answer": "Asia"
+    },
+    {
+        "question": "What is the main language spoken in Brazil?",
+        "options": ["Spanish", "Portuguese", "English"],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Diamond", "Iron"],
+        "answer": "Diamond"
+    }
+]

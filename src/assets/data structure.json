@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which data structure uses LIFO order?",
+    "options": ["Queue", "Stack", "Heap"],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which data structure uses FIFO order?",
+    "options": ["Stack", "Queue", "Array"],
+    "answer": "Queue"
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n log n)"],
+    "answer": "O(log n)"
+  },
+  {
+    "question": "Which data structure is used in recursion?",
+    "options": ["Stack", "Queue", "Graph"],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which traversal visits root between left and right?",
+    "options": ["Preorder", "Inorder", "Postorder"],
+    "answer": "Inorder"
+  },
+  {
+    "question": "Which data structure is used in BFS traversal?",
+    "options": ["Stack", "Queue", "Heap"],
+    "answer": "Queue"
+  },
+  {
+    "question": "Which data structure is used in DFS traversal?",
+    "options": ["Queue", "Stack", "Array"],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which data structure supports fast insertion and deletion at both ends?",
+    "options": ["Array", "Deque", "Queue"],
+    "answer": "Deque"
+  },
+  {
+    "question": "Which tree has at most two children per node?",
+    "options": ["Binary Tree", "AVL Tree", "Trie"],
+    "answer": "Binary Tree"
+  },
+  {
+    "question": "Which structure is best for implementing undo in text editors?",
+    "options": ["Stack", "Queue", "Array"],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which heap is used to implement a priority queue?",
+    "options": ["Min Heap", "Max Heap", "Binary Search Tree"],
+    "answer": "Min Heap"
+  },
+  {
+    "question": "Which data structure provides average O(1) time for search?",
+    "options": ["Array", "Hash Table", "Linked List"],
+    "answer": "Hash Table"
+  },
+  {
+    "question": "Which traversal method is used for level order traversal?",
+    "options": ["Inorder", "Preorder", "Breadth First Search"],
+    "answer": "Breadth First Search"
+  },
+  {
+    "question": "What is the best case time for searching in a binary search tree?",
+    "options": ["O(n)", "O(1)", "O(log n)"],
+    "answer": "O(1)"
+  },
+  {
+    "question": "Which of the following is not a linear data structure?",
+    "options": ["Array", "Stack", "Graph"],
+    "answer": "Graph"
+  }
+]

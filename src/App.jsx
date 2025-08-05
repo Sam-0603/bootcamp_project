@@ -1,16 +1,19 @@
-import { useState } from 'react'
+import { Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import QuizPage from "./pages/QuizPage";
+import SignUp from "./pages/SignUp";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-    <h1>Welcome to Brain Rush!</h1>
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-    </>
-  )
+    <div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/" element={<SignUp />} />
+        <Route path="/quiz/:id" element={<QuizPage />} />
+      </Routes>
+    </div>
+  );
 }
 
-export default App
+export default App;
+

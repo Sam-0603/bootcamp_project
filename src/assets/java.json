@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the size of an int in Java?",
+    "options": ["2 bytes", "4 bytes", "8 bytes"],
+    "answer": "4 bytes"
+  },
+  {
+    "question": "Which method is the entry point in Java?",
+    "options": ["start()", "main()", "run()"],
+    "answer": "main()"
+  },
+  {
+    "question": "What is the default value of an int variable in Java?",
+    "options": ["0", "1", "null"],
+    "answer": "0"
+  },
+  {
+    "question": "Which of the following is not a primitive data type in Java?",
+    "options": ["int", "String", "boolean"],
+    "answer": "String"
+  },
+  {
+    "question": "What keyword is used to declare a constant in Java?",
+    "options": ["const", "final", "static"],
+    "answer": "final"
+  },
+  {
+    "question": "Which of the following is used to handle exceptions in Java?",
+    "options": ["try-catch", "throw-catch", "catch-finally"],
+    "answer": "try-catch"
+  },
+  {
+    "question": "What is the default value of a boolean variable in Java?",
+    "options": ["true", "false", "null"],
+    "answer": "false"
+  },
+  {
+    "question": "Which keyword is used to create a class in Java?",
+    "options": ["class", "create", "new"],
+    "answer": "class"
+  },
+    {
+        "question": "What is the purpose of the 'this' keyword in Java?",
+        "options": ["To refer to the current object", "To create a new object", "To access static methods"],
+        "answer": "To refer to the current object"
+    },
+    {
+        "question": "Which of the following is a valid way to declare an array in Java?",
+        "options": ["int[] arr = new int[10];", "int arr[] = new int[10];", "Both of the above"],
+        "answer": "Both of the above"
+    },
+    {
+        "question": "What is the output of the following code: System.out.println(5 + 10 + 'A');",
+        "options": ["15A", "15", "5A10"],
+        "answer": "15A"
+    },
+    {
+        "question": "What is the purpose of the 'super' keyword in Java?",
+        "options": ["To call the parent class constructor", "To access static variables", "To create a new object"],
+        "answer": "To call the parent class constructor"
+    },
+    {  
+        "question": "Which of the following is not a valid access modifier in Java?",
+        "options": ["public", "private", "protected", "internal"],
+        "answer": "internal"
+    },
+    {
+        "question": "What is the output of the following code: System.out.println(10 / 3);",
+        "options": ["3", "3.0", "3.333"],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following is used to create a thread in Java?",
+        "options": ["Thread class", "Runnable interface", "Both of the above"],
+        "answer": "Both of the above"
+    }
+]
